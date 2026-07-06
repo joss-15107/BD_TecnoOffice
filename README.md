@@ -22,8 +22,7 @@ Este repositorio contiene la práctica del tema **4.1 (Fundamentos de SQL)**. Se
 
 ### 🗺️ Explicación Detallada del Esquema Relacional
 
-![Diagrama EER de la Oficina Tecnológica]
-(diagrama.jpg)
+![Diagrama EER de la Oficina Tecnológica(diagrama.png)
 
 A partir de mi diseño en MySQL Workbench, estructuré la base de datos en tres tablas clave. A continuación se describe el propósito y los campos de cada una:
 
